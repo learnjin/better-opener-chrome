@@ -1,0 +1,6 @@
+= Better Opener Chrome Plugin
+
+This is a chrome plugin for the *better opener* gem. In conjunction with the gem
+this plugin will display and open notifications from your app.
+
+
