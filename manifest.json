@@ -1,0 +1,18 @@
+{
+  "background_page": "background.html",
+  "browser_action": {
+    "default_title": ""
+  },
+  "default_locale": "en",
+  "description": "__MSG_gmailcheck_description__",
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "name": "MCE",
+  "options_page": "options.html",
+  "permissions": [
+    "notifications", "tabs", "http://*/*"
+   ],
+  "version": "0.1"
+}
+
